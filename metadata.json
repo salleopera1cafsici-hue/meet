@@ -1,0 +1,8 @@
+{
+  "name": "MEETME - Real-Life First Dating",
+  "description": "A revolutionary real-time geolocation dating app that transforms virtual discovery into immediate physical meetings.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
